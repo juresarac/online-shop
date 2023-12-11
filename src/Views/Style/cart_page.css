@@ -1,0 +1,12 @@
+.book-img {
+    max-width: 100px;
+    height: auto;
+}
+.payment-card img {
+    max-width: 50px;
+    height: auto;
+    margin-right: 10px;
+}
+.payment-card label {
+    margin-bottom: 0;
+}
